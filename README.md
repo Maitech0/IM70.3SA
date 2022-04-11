@@ -66,7 +66,7 @@ Resultados de segmento natación:
    | 50%      | 00:43:31 |
    | 75%      | 00:48:57 |
   
-La mayoría de las participantes termina este segmanto en menos de 49 min.
+La el 75% de las participantes termina este segmanto en menos de 49 min.
     <br> El promedio de los rsultados es 44 min.
     <br><br>
     
@@ -86,7 +86,7 @@ Resultados de segmento ciclismo:
    | 75%      | 03:19:43 |
 
 
-La mayoría de las participantes termina este segmanto en menos de 3hs 20 min.
+El 75% de las participantes termina este segmanto en menos de 3hs 20 min.
 <br> El promedio de los rsultados es 3hs 8min.
 <br><br>
    
@@ -105,7 +105,7 @@ Resultados de segmento carrera a pie:
    | 75%      | 02:23:44 |
 
 
-La mayoría de las participantes termina este segmanto en menos de 2hs 24 min.
+El 75% de las participantes termina este segmanto en menos de 2hs 24 min.
 <br> El promedio de los rsultados es 2hs 10min.
 <br>
 <br>
@@ -128,7 +128,7 @@ Resultados de segmento natación:
    | 50%      | 00:39:32 |
    | 75%      | 00:44:41 |
 
-La mayoría de los participantes termina este segmanto en menos de 45 min.
+El 75% de los participantes termina este segmanto en menos de 45 min.
 <br> El promedio de los rsultados es 40 min
 <br><br>
     
@@ -148,7 +148,7 @@ Resultados de segmento ciclismo:
    | 75%      | 03:02:05 |
 
 
-La mayoría de las participantes termina este segmanto en menos de 3hs 2min.
+El 75% de los participantes termina este segmanto en menos de 3hs 2min.
 <br> El promedio de los rsultados es 2hs 51min.
 <br><br>
     
@@ -168,7 +168,7 @@ Resultados de segmento carrera a pie:
  | 75%      | 02:15:12 |
 
 
-La mayoría de las participantes termina este segmanto en menos de 2hs 15min.
+El 75% de los participantes termina este segmanto en menos de 2hs 15min.
 <br> El promedio de los rsultados es 2hs 2min.
 <br><br>
 
