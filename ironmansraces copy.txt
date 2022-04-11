@@ -1,0 +1,52 @@
+
+IRONMAN® 70.3 Pucon - afuera por dificultad
+IRONMAN® 70.3 Fortaleza - demasiado difícil 
+IRONMAN® 70.3 Peru - demasiado difícil
+ 
+IRONMAN 70.3 Cartagena - tengo
+IRONMAN 70.3 Cartagena
+December 12, 2021
+Harbor
+Swim
+0.6
+Bike Difficulty
+1.6
+Run Difficulty
+
+IRONMAN 70.3 Rio de Janeiro - tengo
+IRONMAN 70.3 Rio de Janeiro
+September 22, 2019
+Ocean Swim
+0.7 Bike Difficulty
+0.5 Run Difficulty
+
+IRONMAN 70.3 Maceio - si
+August 4, 2019
+Ocean Swim
+0.3 Bike Difficulty
+1.3 Run Difficulty
+
+
+IRONMAN 70.3 Buenos Aires - tengo
+November 3, 2019
+Harbor Swim 
+0.2 Bike Difficulty
+0.4 Run Difficulty
+
+IRONMAN 70.3 Bariloche - tengo
+March 1, 2020
+Lake Swim
+1.5 Bike Difficulty
+1.8 Run Difficulty
+
+IRONMAN 70.3 Florianopolis - tengo
+April 28, 2019
+Ocean Swim
+1.0 Bike Difficulty
+0.5 Run Difficulty
+
+IRONMAN 70.3 Punta del Este - tengo
+April 7, 2019
+Ocean Swim
+0.7 Bike Difficulty
+0.8 Run Difficulty
