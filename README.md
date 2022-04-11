@@ -13,7 +13,9 @@ El Ironman 70.3 (medio Ironman), es una carrera de triatlón de larga distancia 
 Las distancias mencionadas hacen que esta sea una carrera accesible para deportistas amateurs que se inician en el triatlón de larga distancia.<br>
 El propósito de este estudio es proporcionar a deportistas amateurs de América del Sur, una idea de los tiempos de los participantes en las carreras que se celebran en esta región.
 <br><br>
+
 ## Datos
+
 <br>
 Se evaluaron los datos de las carreras realizadas en 2019 en: Punta del Este, Florianópolis, Río de Janeiro, Maceió, Bariloche, Buenos Aires y Cartagena. Se excluyó la carrera de Pucón por tener una dificultad muy superior a las mencionadas anteriormente.
 Los datos se obtuvieron de https://www.obstri.com/
@@ -88,7 +90,7 @@ La mayoría de las participantes termina este segmanto en menos de 3hs 20 min.
 <br> El promedio de los rsultados es 3hs 8min.
 <br><br>
    
-Resultados de segmento carrera a pie:\n",
+Resultados de segmento carrera a pie:
 
 <img src= "https://raw.githubusercontent.com/Maitech0/IM70.3SA/main/grafs/frun_frequency.png" alt="female run times" width="500"/>
 
@@ -104,7 +106,7 @@ Resultados de segmento carrera a pie:\n",
 
 
 La mayoría de las participantes termina este segmanto en menos de 2hs 24 min.
-<br> El promedio de los rsultados es 2hs 10min.\n",
+<br> El promedio de los rsultados es 2hs 10min.
 <br>
 <br>
     
@@ -151,6 +153,7 @@ La mayoría de las participantes termina este segmanto en menos de 3hs 2min.
 <br><br>
     
 Resultados de segmento carrera a pie:
+
 <img src="https://raw.githubusercontent.com/Maitech0/IM70.3SA/main/grafs/mrun_frequency.png" alt="male bike times" width="500">
 
 
@@ -177,7 +180,7 @@ Si puedes: nadar 1900m a un ritmo medio mayor a 02:34 min por 100m, recorrer 90k
 En el caso de los participantes hombres:<br>
 Si puedes: nadar 1900m a un ritmo medio mayor a 02:21min por 100m, recorrer 90km en bicicleta a una velocidad media mayor a 30 km/h y correr 21.1km a un ritmo mayor a 6:26min el km estas pronto para participar en un IRONMAN 70.3
 
-<br><br>\n",
-## Anécdotas / Anecdotes\n",
+<br><br>
+## Anécdotas
 <br>
 En cualquier caso terminar un triatlón de esa distancia es algo increíble y si te tardas un poco más sigue siendo una hazaña impresionante. Se propone realizar un nuevo análisis teniendo en cuenta las categorías por edad
